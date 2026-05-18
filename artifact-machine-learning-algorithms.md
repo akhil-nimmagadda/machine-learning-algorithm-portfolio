@@ -67,8 +67,9 @@ Machine Learning Algorithms
     ├── GANs
     └── Diffusion Models
 
+```text
 
-Real-World Application Summary
+##Real-World Application Summary
 
 Machine learning algorithms are used across many industries. In business analytics, supervised learning algorithms such as Linear Regression, Logistic Regression, Decision Trees, and Random Forests can help predict sales, customer behavior, financial risk, and fraud.
 
@@ -76,7 +77,7 @@ In unsupervised learning, K-Means Clustering can help businesses group customers
 
 In computer vision, Convolutional Neural Networks are useful for image classification, face recognition, medical imaging, and object detection. In natural language processing, Transformer models such as GPT and BERT are used for chatbots, translation, summarization, sentiment analysis, and text generation. In generative AI, GANs and Diffusion Models are used to create images, enhance visual content, and support creative AI applications.
 
-Reflection
+##Reflection
 
 Creating this artifact helped me better understand how different machine learning algorithms are organized and applied in real-world situations. Before working on this assignment, I understood that machine learning was used for prediction and automation, but this activity helped me clearly see the differences between supervised learning, unsupervised learning, deep learning, and generative AI.
 
@@ -86,7 +87,8 @@ This artifact also helped me connect algorithms to different AI domains. For exa
 
 Overall, this artifact strengthened my understanding of how to select the right algorithm for a specific business or technical problem. It also helped me create a professional portfolio resource that demonstrates my knowledge of machine learning concepts, algorithm types, and real-world AI applications.
 
-Skills Demonstrated
+##Skills Demonstrated
+
 Machine learning fundamentals
 Algorithm classification
 Artificial intelligence concepts
