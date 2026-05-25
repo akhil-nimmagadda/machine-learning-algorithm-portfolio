@@ -1,6 +1,6 @@
----
+[← Back to Portfolio Home](index.md)
 
-# Portfolio Artifact 2: Neural Network Components Visual Presentation
+# Artifact 2: Neural Network Components Visual Presentation
 
 ## Artifact Overview
 
@@ -301,3 +301,7 @@ Overall, this artifact strengthened my ability to explain complex AI concepts in
 This artifact adds value to my professional portfolio because it demonstrates my ability to understand and explain neural network concepts clearly. It shows that I can take a complex artificial intelligence topic and organize it into a simple, professional, and easy-to-understand format.
 
 This artifact also supports my career goals in artificial intelligence, machine learning, data analytics, and technology-driven business solutions. It highlights my learning progress and shows my ability to communicate technical knowledge to both technical and non-technical audiences.
+
+---
+
+[← Back to Portfolio Home](index.md)
