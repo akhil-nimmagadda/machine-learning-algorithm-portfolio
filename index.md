@@ -14,7 +14,7 @@ The purpose of this portfolio is to showcase my ability to explain technical con
 
 This artifact explains major machine learning algorithms, including supervised learning, unsupervised learning, computer vision, natural language processing, and generative AI models. It includes algorithm types, application domains, real-world use cases, and a reflection on my learning.
 
-[View Artifact 1](artifact1-machine-learning-algorithms.md)
+[View Artifact 1](artifact1-machine-learning-algorithms.html)
 
 ---
 
@@ -22,7 +22,7 @@ This artifact explains major machine learning algorithms, including supervised l
 
 This artifact explains the main components of neural networks, including layers, neurons, weights, activation functions, loss functions, and optimization algorithms. It also shows how data flows through a neural network and how neural networks are used in real-world AI applications.
 
-[View Artifact 2](artifact2-neural-network-components.md)
+[View Artifact 2](artifact2-neural-network-components.html)
 
 ---
 
@@ -35,3 +35,13 @@ This artifact explains the main components of neural networks, including layers,
 - Technical communication
 - Portfolio development
 - Real-world AI application analysis
+
+---
+
+## Portfolio Purpose
+
+This portfolio demonstrates my academic growth and practical understanding of AI and machine learning concepts. Each artifact explains a different area of AI and shows my ability to organize technical information in a clear and professional way.
+
+Artifact 1 focuses on machine learning algorithms and their real-world applications. Artifact 2 focuses on neural network components and how neural networks learn from data.
+
+Together, these artifacts show my progress in understanding AI models, machine learning methods, and neural network structures.
