@@ -25,6 +25,13 @@ This artifact explains the main components of neural networks, including layers,
 [View Artifact 2](artifact2-neural-network-components.html)
 
 ---
+## Artifact 3: Training Large Language Models (LLMs): Process, Resources, and Costs
+
+This artifact explains the training process, infrastructure requirements, and cost drivers involved in building advanced generative AI large language models such as GPT, Claude, Gemini, and Llama.
+
+[View Artifact 3](artifact3-llm-training-costs.md)
+
+---
 
 ## Skills Demonstrated
 
