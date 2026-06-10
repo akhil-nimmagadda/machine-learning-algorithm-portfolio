@@ -32,7 +32,13 @@ This artifact explains the training process, infrastructure requirements, and co
 [View Artifact 3](artifact3-llm-training-costs.md)
 
 ---
+## Artifact 4: Explainable AI, Validation, and Performance Metrics
 
+This artifact explains the importance of Explainable AI for large language models and describes how validation techniques and performance metrics help improve model reliability, transparency, and trust.
+
+[View Artifact 4](artifact4-explainable-ai-validation.md)
+
+---
 ## Skills Demonstrated
 
 - Artificial intelligence fundamentals
