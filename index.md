@@ -39,6 +39,14 @@ This artifact explains the importance of Explainable AI for large language model
 [View Artifact 4](artifact4-explainable-ai-validation.md)
 
 ---
+
+## Artifact 5: Pre-Trained AI Model Selection Decision Matrix
+
+This artifact compares pre-trained models across NLP, computer vision, and tabular data. It evaluates model size, accuracy, speed, explainability, energy efficiency, and deployment requirements to support informed AI model selection.
+
+[View Artifact 5](artifact-ai-model-selection.md)
+
+---
 ## Skills Demonstrated
 
 - Artificial intelligence fundamentals
