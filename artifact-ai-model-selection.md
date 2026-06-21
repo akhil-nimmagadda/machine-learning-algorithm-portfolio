@@ -11,15 +11,7 @@ title: "AI Model Selection Decision Matrix"
 **Prepared by:** Akhil Nimmagadda  
 **Focus Areas:** Artificial Intelligence, Machine Learning, Model Evaluation, Explainable AI, and Data Engineering
 
----
 
-## About Me
-
-I am a Data Engineer with experience building scalable data pipelines, cloud-based data platforms, analytical solutions, and machine learning workflows. My professional interests include Azure, AWS, Google Cloud Platform, Databricks, Apache Spark, Python, SQL, data quality, machine learning, and generative artificial intelligence.
-
-My career goal is to combine data engineering and applied AI to build reliable, efficient, scalable, and explainable solutions. This artifact demonstrates my ability to evaluate AI models according to technical performance, operational requirements, explainability, and business needs rather than selecting a model based only on accuracy.
-
----
 
 # 1. Introduction
 
